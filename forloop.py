@@ -1,45 +1,45 @@
-# tup=(1,2,3,4,5)
-# for i in tup:
-#     print(i)
+tup=(1,2,3,4,5)
+for i in tup:
+    print(i)
 
 
 
-# str="hello"
-# for char in str:
-#     print(char)
-# else:
-#     print("End")
+str="hello"
+for char in str:
+    print(char)
+else:
+    print("End")
 
 
 
-# nums=[1,4,9,16,25]
-# for i in nums:
-#     print(i)
+nums=[1,4,9,16,25]
+for i in nums:
+    print(i)
 
 
-# # range function
-# for i in range(10):
-#     print(i)
+# range function
+for i in range(10):
+    print(i)
 
 
-# # range(start,stop,jump)
-# for i in range(1,10,2):
-#     print(i)
+# range(start,stop,jump)
+for i in range(1,10,2):
+    print(i)
 
-# # from 1 to 100
-# for i in range(101):
-#     print(i)
-
-
-# # from 100 to 1
-# for i in range(100,0,-1):
-#     print(i)
+# from 1 to 100
+for i in range(101):
+    print(i)
 
 
-# # table of n
-# n=2
-# for i in range(1,11):
-#     print(n*i)
+# from 100 to 1
+for i in range(100,0,-1):
+    print(i)
+
+
+# table of n
+n=2
+for i in range(1,11):
+    print(n*i)
 
 
 
